@@ -1,0 +1,5 @@
+.DS_STORE
+__pycache__/
+venv/
+sp22-v3/
+.OTTER_LOG
